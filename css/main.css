@@ -2,10 +2,10 @@ html, body {
   margin: 0;
   padding: 0;
   font-family: Arial;
-  background-color: #AE501D; }
+  background-color: #2fbb04; }
 
 h1 {
-  color: #FF8442;
+  color: #1e04b1;
   margin: 1em auto;
   margin-bottom: 2em;
   text-align: center;
@@ -23,7 +23,7 @@ div.main {
 
 div.main p {
   padding: 1em;
-  color: #FFC2A1; }
+  color: #0f0909; }
 
 div.main aside {
   background: rgba(0, 0, 0, 0.2);
@@ -33,7 +33,7 @@ div.main aside {
   position: relative; }
 
 div.main aside h2 {
-  color: #FF8442;
+  color: #203aaf;
   padding-left: 0.66em;
   font-family: 'Lobster', cursive; }
 
